@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [lilian-vasconcelos.fr](lilian-vasconcelos.fr)
+- 👨‍💻 All of my projects are available at [Lvscls](http://lilian-vasconcelos.fr/)
 
 - 💬 Ask me about **Vue, NodeJs**
 
