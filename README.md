@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lilian Vasconcelos</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte**/ **Meteor**
 
 - 👨‍💻 All of my projects are available at [https://lilian-vasconcelos.fr/](https://lilian-vasconcelos.fr/)
 
